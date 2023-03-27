@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    font: normal 18pt arial;
+    background-color:rgb(73, 73, 196);
+    text-align: center;
+    color: white;
+
+}
+section{
+    margin: auto;
+    width: 500px;   
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px solid black;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.534);
+    text-align: left;
+}
+div{
+    margin-left: 5px;
+    display: inline-block;
+    
+}
+footer{
+    font-style: italic;
+}
+img{
+ margin-left: 10px;
+}
+input{
+    width: 100px;
+}
+#btn{
+    background-color: rgb(73, 73, 196);
+    color: white;
+    font-size: 16pt;
+}
